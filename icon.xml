@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#2563eb"/>
+  <rect x="96" y="140" width="320" height="290" rx="30" fill="#fff"/>
+  <rect x="96" y="140" width="320" height="70" rx="30" fill="#1d4ed8"/>
+  <text x="256" y="300" text-anchor="middle" font-size="180" font-family="Arial" font-weight="bold" fill="#2563eb">י</text>
+  <circle cx="150" cy="175" r="10" fill="#fff"/>
+  <circle cx="362" cy="175" r="10" fill="#fff"/>
+</svg>
